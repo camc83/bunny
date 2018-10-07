@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>IOSLinkedInAPIFix.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>LinkedinSwift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-bunnyInc.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SwiftyJSON.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9AB167BB57C63F3EB8ABDBDB7552E15F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B4121D3B507ACAC290C37AF691D07F53</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C1FFF298E2AFD7D6D7140EC97F5B7E5F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D4600C2B56F138AA49B29955366E6AEF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F4160500DCEA3DA3E93FBA579E88CA0A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
